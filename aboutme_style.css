@@ -1,0 +1,33 @@
+body{
+	background-color:rgb(89,85,71); 
+	cursor: pointer;
+	font-family: Franklin Gothic Demi;
+}
+
+h1,h2{
+color: rgb(159,194,248);
+}
+hr{color: rgb(154,154,154);}
+h1{font-size: 43px;}
+h2{font-size: 35px;}
+a{
+	color:red;
+}
+p > strong{
+	color: rgb(247,243,105);
+}
+ol li,ul,li{color:white;
+font-size: 18px;}
+p{color: white;
+font-size: 21px;}
+.imagesize1{
+	width: 35%;
+	height: 240px;
+}
+.imagesize2{
+	height: 240px;
+}
+em{
+	font-size: 20px;
+	color:white;
+}
